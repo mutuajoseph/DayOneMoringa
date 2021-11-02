@@ -1,1 +1,29 @@
-This is my updated file
+BLOCK ELEMENTS
+INLINE ELEMENTS
+
+Yesterdays 
+    GIT & GITHUB - BASIC VIEW
+
+    HTML- INTRODUCTION
+            - CREATE A HTML file
+            - HTML STRUCTURE 
+            - Defines some basic terms
+                -elements - Building blocks of the html content
+                Examples : title, head, body, heading, html
+
+                -attributes - Give more information about element
+                They are placed inside opening tags
+                Examples:  href, id, class, style
+
+                -tags - Denote elements 
+                Example:  paragraph - <p></p>
+                          container - <div></div>
+
+            - Block elements & inline elements
+
+            - INLINE
+            EXAMPLE - link, emphasis, image, span, breakline
+
+            - BLOCK 
+            EXAMPLE - paragraph, list, page-title, 
+                      head, container, blockquote, table 
